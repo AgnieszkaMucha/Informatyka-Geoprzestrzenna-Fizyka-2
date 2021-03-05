@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# FIZYKA 2
+## Wydział Geodezji Górniczej I Inżynierii Środowiska
+# Geoinformacja
 
-You can use the [editor on GitHub](https://github.com/AgnieszkaMucha/Geoinformacja-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### WYKŁADY
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Wykłady prowadzone są on-line w piątki w godzinach 15-16:30  na platformie MSTeams
+[link](https://teams.microsoft.com/l/channel/19%3a8326708d2c1644a89d01aec7ca392150%40thread.tacv2/Og%25C3%25B3lny?groupId=db5e82a7-3e52-4343-be42-be35a8db06f1&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
+- Elektrostatyka 1 [wykład](Elektrostatyka_1.pdf)
 
-### Markdown
+### Konsultacje 
+Konsulatcje umawiane są indywidualnie poprzez MSTeams.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Kontakt
+AGH WFiIS <br>
+D11 pok. 106 <br>
+ul. Kawiory 26a, 30-059 Kraków <br>
+tel. 12 617 29 96 <br>
+mail: amucha@agh.edu.pl
 
-```markdown
-Syntax highlighted code block
+### Literatura
+1. Fizyka dla szkół wyższych - OpenStax wersja online [link](https://openstax.pl/podreczniki)
+2. D. Halliday, R.Resnick, J. Walker "Podstawy Fizyk1" t.1-5, + Zbior zadań
+3. J. Jedrzejewski, W.Kruczek "Zbior zadan z fizyki" t.1-2,
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AgnieszkaMucha/Geoinformacja-2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
