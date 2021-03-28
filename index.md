@@ -8,7 +8,7 @@
 [link](https://teams.microsoft.com/l/channel/19%3a8326708d2c1644a89d01aec7ca392150%40thread.tacv2/Og%25C3%25B3lny?groupId=db5e82a7-3e52-4343-be42-be35a8db06f1&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
 - Elektrostatyka 1 [wykład](Gin_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](Gin_2_Elektrostatyka_2.pdf)
-
+- Obwody prądu stałego [wykład](Gin_3_Prad.pdf)
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie poprzez MSTeams.
 
