@@ -9,7 +9,7 @@
 - Elektrostatyka 1 [wykład](Gin_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](Gin_2_Elektrostatyka_2.pdf)
 - Obwody prądu stałego [wykład](Gin_3_Prad.pdf)
-- Pole magnetyczne [wykład](Gin_4_PoleMagnetyczne_1)
+- Pole magnetyczne [wykład](Gin_4_PoleMagnetyczne_1.pdf)
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie poprzez MSTeams.
