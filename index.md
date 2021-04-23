@@ -11,6 +11,7 @@ Wykłady prowadzone są on-line w piątki w godzinach 15-16:30  na platformie MS
 - Obwody prądu stałego [wykład](Gin_3_Prad.pdf)
 - Pole magnetyczne 1 [wykład](Gin_4_PoleMagnetyczne_1.pdf)
 - Pole magnetyczne 2 [wykład](Gin_5_PoleMagnetyczne_2.pdf)
+- Fale elektromagnetyczne [wykład](Gin_6_FaleElektromagnetyczne.pdf)
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie poprzez MSTeams.
