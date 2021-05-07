@@ -12,6 +12,8 @@ Wykłady prowadzone są on-line w piątki w godzinach 15-16:30  na platformie MS
 - Pole magnetyczne 1 [wykład](Gin_4_PoleMagnetyczne_1.pdf)
 - Pole magnetyczne 2 [wykład](Gin_5_PoleMagnetyczne_2.pdf)
 - Fale elektromagnetyczne [wykład](Gin_6_FaleElektromagnetycze.pdf)
+- Optyka [wykład](Gin_7_Optyka.pdf)
+
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie poprzez MSTeams.
