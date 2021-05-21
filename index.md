@@ -13,6 +13,9 @@ Wykłady prowadzone są on-line w piątki w godzinach 15-16:30  na platformie MS
 - Pole magnetyczne 2 [wykład](Gin_5_PoleMagnetyczne_2.pdf)
 - Fale elektromagnetyczne [wykład](Gin_6_FaleElektromagnetycze.pdf)
 - Optyka [wykład](Gin_7_Optyka.pdf)
+- Kwanty [wykład](Gin_8_Kwanty.pdf)
+- Atomy i budowa Materii [wykład](Gin_9_Atomy_CialaStale.pdf)
+- Rozważania o fizyce jądrowej [wykład](Gin_10_Jadrowa.pdf)
 
 
 ### Konsultacje 
