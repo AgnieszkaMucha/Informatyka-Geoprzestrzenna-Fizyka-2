@@ -20,7 +20,7 @@ Wykłady prowadzone są on-line w piątki w godzinach 15-16:30 w sali B/D10
 
 
 ### Konsultacje 
-Konsulatcje umawiane są indywidualnie poprzez MSTeams.
+Konsulatcje umawiane są indywidualnie
 
 ### Kontakt
 AGH WFiIS <br>
