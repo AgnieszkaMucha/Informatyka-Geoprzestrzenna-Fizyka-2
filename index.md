@@ -4,7 +4,7 @@
 
 ### WYKŁADY
 
-Wykłady prowadzone są on-line w piątki w godzinach 15-16:30 w sali B/D10
+Wykłady prowadzone są w piątki w godzinach 13:15-14:45 w sali B/D10
 - Hydrodynamika [wykład](GIN_9_Hydrodynamika.pdf) 
 - Termodynamika [wykład](GIN_10_Termodynamika.pdf) 
 - Elektrostatyka 1 [wykład](Gin_1_Elektrostatyka_1.pdf)
